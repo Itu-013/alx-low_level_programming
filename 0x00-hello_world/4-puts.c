@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
-* the code below, embedded in the main function, is basically
-* to print a text using the puts function and return 0
-* this is a comment
+* main - the function where the code is typed
+* description - main function is being used
+* to print a text using the puts function
+* Return: 0
 */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
-

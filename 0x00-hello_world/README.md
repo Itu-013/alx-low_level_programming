@@ -1,1 +1,1 @@
-betty ooo
+a program printing a text
