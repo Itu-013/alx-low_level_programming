@@ -1,1 +1,1 @@
-a program printing a text
+using printf
