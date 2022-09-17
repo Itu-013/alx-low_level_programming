@@ -2,6 +2,12 @@
 #include "6-abs.c"
 #include <stdio.h>
 
+/**
+ * print_to_98 - thi program prints every minute
+ * @n: integer value
+ * Return: minutes
+ */
+
 void print_to_98(int n)
 {
 	int i;
