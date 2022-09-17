@@ -1,1 +1,1 @@
-hours
+times tables
