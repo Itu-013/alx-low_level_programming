@@ -1,1 +1,1 @@
-print alphabets
+is lower
