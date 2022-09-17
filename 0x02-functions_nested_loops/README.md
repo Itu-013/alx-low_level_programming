@@ -1,1 +1,1 @@
-abs readme
+print last digit
