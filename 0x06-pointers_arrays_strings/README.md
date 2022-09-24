@@ -1,1 +1,1 @@
-strncpy readme
+strcmp
