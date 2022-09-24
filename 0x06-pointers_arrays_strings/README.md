@@ -1,1 +1,1 @@
-strncpy
+strncpy readme
