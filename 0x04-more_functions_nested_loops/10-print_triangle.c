@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - this function multiplies two values
- * size: value
+ * @size: value
  *
  */
 
