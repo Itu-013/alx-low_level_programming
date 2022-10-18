@@ -6,8 +6,6 @@
  *
  * @b: Pointer to the second integer variable
  * swap_int - this function swaps values
- * Return: void
- *
  */
 
 void swap_int(int *a, int *b)
